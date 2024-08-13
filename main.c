@@ -1,0 +1,7 @@
+Main()
+{
+	InitialFunction()
+	{
+		//Initial code
+	}
+}

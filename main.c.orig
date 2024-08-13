@@ -4,11 +4,14 @@ Main()
 	{
 		//Initial code
 	}
+<<<<<<< HEAD
 	Feature1()
 	{
 		//Feature 1 code
+=======
 	Feature2()
 	{
 		//Feature 2 code
+>>>>>>> f2
 	}
 }
